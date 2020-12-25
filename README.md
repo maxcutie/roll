@@ -19,15 +19,15 @@
 
 ## Reqirements
 
-Python 3 (please make sure python is installed to your path or this wont work)
-chromedriver (included in the repo/download already, please dont move or it will break the script)
+Python 3 (please make sure python is installed to your path or this wont work)  
+chromedriver (included in the repo/download already, please dont move or it will break the script)  
 
 ## Usage
 
 
-[download](https://github.com/maxcutie/roll/archive/main.zip) this respository. 
-edit the config.py with notepad and input your aimgods username and password
-run roll.exe and let the script take care of the rest
+[download](https://github.com/maxcutie/roll/archive/main.zip) this respository.   
+edit the config.py with notepad and input your aimgods username and password  
+run roll.exe and let the script take care of the rest  
 
 
 ## Other
