@@ -24,11 +24,11 @@ chromedriver (included in the repo/download already, please dont move or it will
 
 ## Usage
 
-```sh
-[download](https://github.com/maxcutie/roll/archive/main.zip) this respository. /n
-edit the config.py with notepad and input your aimgods username and password /n
+
+[download](https://github.com/maxcutie/roll/archive/main.zip) this respository. 
+edit the config.py with notepad and input your aimgods username and password
 run roll.exe and let the script take care of the rest
-```
+
 
 ## Other
 
