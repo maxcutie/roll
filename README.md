@@ -1,22 +1,38 @@
 <h1 align="center">Welcome to roll 👋</h1>
 <p>
-  <a href="https://www.npmjs.com/package/roll" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/roll.svg">
-  </a>
   <a href="https://twitter.com/ihateecco2k" target="_blank">
     <img alt="Twitter: ihateecco2k" src="https://img.shields.io/twitter/follow/ihateecco2k.svg?style=social" />
   </a>
 </p>
 
+<p align="center">
+ <img src="https://cutecdn.sfo2.cdn.digitaloceanspaces.com/rollgh.png">
+</p>
+
 > script that will auto roll your finalmouse aim gods golden keys to hopefully win a prize.
 
+<h1 align="center">
+> ** :x: I AM NOT OFFERING SUPPORT ON THIS. :x: **
+</h1>
+
 ### 🏠 [Homepage](https://github.com/maxcutie/roll)
+
+## Reqirements
+
+Python 3 (please make sure python is installed to your path or this wont work)
+chromedriver (included in the repo/download already, please dont move or it will break the script)
 
 ## Usage
 
 ```sh
-simply click on the roll.py executable to run the script
+[download](https://github.com/maxcutie/roll/archive/main.zip) this respository. 
+edit the config.py with notepad and input your aimgods username and password
+run roll.exe and let the script take care of the rest
 ```
+
+## Other
+
+[discord](https://discord.gg/nwbxvUjYG8)
 
 ## Author
 
