@@ -26,8 +26,9 @@ chromedriver (included in the repo/download already, please dont move or it will
 
 
 [download](https://github.com/maxcutie/roll/archive/main.zip) this respository.   
-edit the config.py with notepad and input your aimgods username and password  
-run roll.exe and let the script take care of the rest  
+edit the config.py with notepad and input your aimgods username and password 
+** make sure you have selenium installed. if you dont simply do (pip install selenium) into your command line.
+run the script and let it take care of the rest
 
 
 ## Other
