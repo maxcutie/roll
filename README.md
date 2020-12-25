@@ -12,7 +12,7 @@
 > script that will auto roll your finalmouse aim gods golden keys to hopefully win a prize.
 
 <h1 align="center">
-> ** :x: I AM NOT OFFERING SUPPORT ON THIS. :x: **
+:x: I AM NOT OFFERING SUPPORT ON THIS. :x:
 </h1>
 
 ### 🏠 [Homepage](https://github.com/maxcutie/roll)
