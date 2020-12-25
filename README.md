@@ -7,6 +7,7 @@
 
 <p align="center">
  <img src="https://cutecdn.sfo2.cdn.digitaloceanspaces.com/rollgh.png">
+  <img src="https://cutecdn.sfo2.cdn.digitaloceanspaces.com/rolldemo.gif">
 </p>
 
 > script that will auto roll your finalmouse aim gods golden keys to hopefully win a prize.
